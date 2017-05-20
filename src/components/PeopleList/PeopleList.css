@@ -1,0 +1,10 @@
+.row .col-4 {
+  width: 33%;
+  display: inline;
+  height: 100%;
+}
+
+.row .col-8 {
+  width: 66%;
+  display: inline;
+}
